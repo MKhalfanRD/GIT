@@ -1,0 +1,6 @@
+1. code pertama
+2. sudah di edit
+3. edit yang kedua
+4. reset commit
+5. perubahan setelah commit
+6. conflict
